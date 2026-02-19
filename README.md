@@ -1,16 +1,19 @@
-## Hi there 👋
+## Current Status
+> Timezone UTC +09:00 Asia/Seoul
 
-<!--
-**LanaKee/LanaKee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍎 Leaner `@DeveloperAcademy-POSTECH` (5th)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Skills
+- TypeScript, Node.js
+- Next.js, React
+- TailwindCSS
+- REST API / Web Service Architecture
+- Database Design (MySQL, PostgreSQL, MongoDB, Redis)
+
+### Experience
+- Web service development with Next.js
+- Backend system & API server design (Node.js / Express)
+- Full-stack development, backend-oriented
+- Practical database modeling and performance considerations
