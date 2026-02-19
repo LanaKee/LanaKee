@@ -1,7 +1,7 @@
 ## Current Status
 > Timezone UTC +09:00 Asia/Seoul
 
-🍎 Leaner `@DeveloperAcademy-POSTECH` (5th)
+🍎 Learner `@DeveloperAcademy-POSTECH` (5th)
 
 ## About Me
 
