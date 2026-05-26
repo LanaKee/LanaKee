@@ -1,7 +1,7 @@
 ## Current Status
 > Timezone UTC +09:00 Asia/Seoul
 
-🍎 Learner `@DeveloperAcademy-POSTECH` (5th)
+🍎 Learner `@DeveloperAcademy-POSTECH` (cohort 2026)
 
 ## About Me
 
