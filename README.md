@@ -11,6 +11,7 @@
 - TailwindCSS
 - REST API / Web Service Architecture
 - Database Design (MySQL, PostgreSQL, MongoDB, Redis)
+- Swift (iOS App Developement)
 
 ### Experience
 - Web service development with Next.js
