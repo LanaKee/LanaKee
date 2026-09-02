@@ -20,8 +20,8 @@ SK Planet & 중소벤처기업부 주관
 - 스마트 스피커와 연동된 모바일 앱 서비스
 - STT 기반 음성명령 처리를 위한 백엔드 개발
 
-### 1st place (최우수상), Hello New() World Hackathon 2021
-한국과학창의재단 KOFAC 주관
+### 2nd place (최우수상), Hello New() World Hackathon 2021
+한국과학창의재단 KOFAC & 신세계 I&C 주관 
 - 여행 산업 문제 해결을 위한 가상 투어 플랫폼 개발
 - 자연어로 가고 싶은 여행지 입력 시 Embedding 기반 코사인 유사도를 활용하여 여행지 추천
 
