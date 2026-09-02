@@ -1,5 +1,5 @@
 
-## Education
+## Educations
 
 ### Learner, [Apple Developer Academy @ POSTECH](https://github.com/DeveloperAcademy-POSTECH) 
 (Cohort 2026), Mar 2026 ~ Dec 2026
@@ -24,6 +24,11 @@ SK Planet & 중소벤처기업부 주관
 한국과학창의재단 KOFAC 주관
 - 여행 산업 문제 해결을 위한 가상 투어 플랫폼 개발
 - 자연어로 가고 싶은 여행지 입력 시 Embedding 기반 코사인 유사도를 활용하여 여행지 추천
+
+## Experiences
+
+- [한국 디스코드 리스트](https://koreanbots.dev), Discord bot 리스트 운영
+- [아침별점](https://www.onde.us/ko/ohaasa), 별자리 운세 Discord bot 개발
 
 ## Core Skills
 - TypeScript, Node.js
