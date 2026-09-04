@@ -29,13 +29,12 @@ SK Planet & 중소벤처기업부 주관
 
 - [한국 디스코드 리스트](https://koreanbots.dev), Discord bot 리스트 운영
 - [아침별점](https://www.onde.us/ko/ohaasa), 별자리 운세 Discord bot 개발
+  - DAU 1000+ / WAU 1600+ / MAU 2500+ (30d retention 40%)
 
 ## Core Skills
 - TypeScript, Node.js
 - Web Service Development (Next.js, React)
-- Front-end Development (TailwindCSS)
 - Backend system & API Server Design (Node.js / Express)
-- Database Design (MySQL, PostgreSQL, MongoDB, Redis)
+- Database Design (mariaDB, PostgreSQL, MongoDB, Redis)
 - Apple Platform Development (Swift)
 
-## Experience
