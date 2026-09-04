@@ -30,8 +30,8 @@ SK Planet & 중소벤처기업부 주관
 - [한국 디스코드 리스트](https://koreanbots.dev), 웹서비스 운영
 - [아침별점](https://www.onde.us/ko/ohaasa), 별자리 운세 Discord bot 개발/운영
   - DAU 1000+ / WAU 1600+ / MAU 2500+ (30d retention 40%)
-- [츄니링크](https://chuni.yoru.icu/) 아케이드 게임 성과추적 서비스 개발/운영 ([github](https://github.com/LanaKee/chunilink) )
-- [미끄메라.넷](https://github.com/mikmera/frontend) 개발
+- [츄니링크](https://chuni.yoru.icu/), 아케이드 게임 성과추적 서비스 개발/운영 ([github](https://github.com/LanaKee/chunilink))
+- [미끄메라.넷](https://github.com/mikmera/frontend), 개발
 
 
 ## Core Skills
