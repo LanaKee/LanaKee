@@ -15,7 +15,7 @@
 
 ## Awards
 
-### 1st place (대상) 미래산업부문, Smarten App Challenge 2022
+### 1st place (대상) 미래산업부문, Smarteen App Challenge 2022
 SK Planet & 중소벤처기업부 주관
 - 스마트 스피커와 연동된 모바일 앱 서비스
 - STT 기반 음성명령 처리를 위한 백엔드 개발
