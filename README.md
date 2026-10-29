@@ -2,7 +2,7 @@
 ## Educations
 
 ### Learner, [Apple Developer Academy @ POSTECH](https://github.com/DeveloperAcademy-POSTECH) 
-(Cohort 2026), Mar 2026 ~ Dec 2026
+(Cohort 2026), Mar 2026 ~ Oct 2026
 - Apple의 Challenge Based Learning 방법론 기반 앱 개발 학습
 - [잇피](https://github.com/DeveloperAcademy-POSTECH/2026-C4-M1-NyamNyam), 섭식장애의 병원 진료간 공백기간을 도와주는 iOS 앱
 - [숨박](https://github.com/DeveloperAcademy-POSTECH/2026-C3-M16-BakchigiSaurus), Nearby Interaction & Multipeer Connectivity 기술을 활용한 숨바꼭질 iOS 앱
